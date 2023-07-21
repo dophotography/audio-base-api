@@ -1,0 +1,21 @@
+{
+  "name": "programming-langugages-api",
+  "version": "1.0.0",
+  "description": "A demo REST API with Node.js Express.js and MySQL for most popular programming languages",
+  "main": "index.js",
+  "scripts": {
+    "start": "node express.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/dophotography/audio-base-api.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "homepage": "https://github.com/geshan/programming-langugages-api#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.18.2"
+  }
+}

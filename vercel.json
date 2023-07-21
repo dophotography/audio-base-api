@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "audio-base-api",
+  "builds": [
+    { "src": "express.js", "use": "@vercel/node" }
+  ],
+  "routes": [
+    { "src": "/(.*)", "dest": "/express.js" }
+  ]
+}

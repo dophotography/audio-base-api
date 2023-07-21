@@ -1,0 +1,13 @@
+---
+application:
+  name: "audio-base-api"
+  project: "audio-base-api"
+  organization: "QoveryCommunity"
+  publicly_accessible: true
+  port: 3000
+routers:
+- name: "audio-base-api"
+  routes:
+  - application_name: "audio-base-api"
+    paths:
+    - "/*"
