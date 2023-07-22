@@ -46,7 +46,7 @@ Error Handling
 
 ## Example Usage (Locally)
 
-To access a file from the `player` directory, make a GET request to the `/player/:fileName endpoint`, replacing `:fileName` with the name of the file you want to retrieve.
+To access a file from the `player` directory, make a GET request to the `/player/:fileName` endpoint, replacing `:fileName` with the name of the file you want to retrieve.
 
 Example usage using cURL:
 
