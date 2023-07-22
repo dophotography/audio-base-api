@@ -6,12 +6,12 @@ To run the Smart Home Project - File Hosting Express API on your local machine, 
 
 1. Clone the repository to your local machine:
 ````bash
-git clone https://github.com/your-username/smart-home-file-hosting-api.git
+git clone https://github.com/dophotography/audio-base-api.git
 ````
 
 2. Change your current directory to the project folder:
 ````bash
-cd smart-home-file-hosting-api
+cd audio-base-api
 ````
 
 3. Install the required dependencies using npm:
